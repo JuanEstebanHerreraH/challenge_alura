@@ -31,8 +31,5 @@
   <li><code>script.js</code>: Lógica del sorteo y validaciones</li>
 </ul>
 
-<h3>📸 Vista previa</h3>
-<p><em>Incluye aquí una captura de pantalla o GIF del proyecto funcionando si deseas.</em></p>
-
 <h3>✍️ Autor</h3>
 <p>Proyecto realizado como práctica del curso de programación en <strong>Alura Latam</strong>.</p>
