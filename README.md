@@ -1,35 +1,28 @@
-<!-- README.md -->
+# Amigo secreto · Alura Latam
 
-<h1>🎁 Proyecto: Sorteo de Amigo Secreto</h1>
+**Sorteo de participantes con HTML, CSS y JavaScript.**
 
-<h2>🔧 Desarrollado para: Alura Latam</h2>
+Ejercicio del programa de formación de Alura Latam para practicar listas, eventos de interfaz y selección aleatoria.
 
-<p>Este proyecto es parte del programa de formación de <strong>Alura Latam</strong> y consiste en la creación de una página web interactiva para realizar un <strong>sorteo de amigo secreto</strong>.</p>
+## Probar localmente
 
-<h3>📌 Objetivo</h3>
-<p>Implementar un sistema sencillo que permita ingresar nombres de participantes, sortear un amigo secreto al azar y asegurarse de que no se repitan durante el sorteo.</p>
+1. Clona o descarga el repositorio.
+2. Abre `index.html` conservando `app.js`, `style.css` y `assets/`.
+3. Agrega participantes y utiliza el botón de sorteo.
 
-<h3>🧠 Tecnologías utilizadas</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript (Vanilla JS)</li>
-</ul>
+No necesita un proceso de compilación ni un servidor de aplicación.
 
-<h3>🚀 Características principales</h3>
-<ul>
-  <li>Agregar una lista de participantes</li>
-  <li>Sortear un amigo secreto al azar</li>
-  <li>Evitar repeticiones durante el sorteo</li>
-  <li>Mostrar mensajes cuando ya todos han sido sorteados</li>
-</ul>
+## Contenido
 
-<h3>📂 Estructura del proyecto</h3>
-<ul>
-  <li><code>index.html</code>: Página principal del proyecto</li>
-  <li><code>style.css</code>: Estilos básicos</li>
-  <li><code>script.js</code>: Lógica del sorteo y validaciones</li>
-</ul>
+| Archivo | Responsabilidad |
+| --- | --- |
+| `index.html` | Estructura y controles. |
+| `app.js` | Lógica del sorteo y eventos. |
+| `style.css` | Presentación visual. |
+| `assets/` | Recursos de imagen. |
 
-<h3>✍️ Autor</h3>
-<p>Proyecto realizado como práctica del curso de programación en <strong>Alura Latam</strong>.</p>
+## Alcance
+
+Es una práctica de frontend para usar en el navegador. No incluye cuentas, base de datos, envío de resultados ni una plataforma de organización de eventos.
+
+**Autor:** Juan Esteban Herrera Herrera. Desarrollado como práctica de Alura Latam; los recursos proporcionados para el desafío conservan sus atribuciones.
